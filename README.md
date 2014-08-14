@@ -7,3 +7,5 @@ To run locally, download all files, and then run URL Interface.py. This will dow
 
 Next, run Screens.py to start the program. All other files are accessed from Screens.py and do not need to be run individually.
 
+For simplicity, this will only download play-by-play files from 2010 onwards. Using all of Retrosheet (back to the 1940s) takes a long time to set up, which is not the goal.
+
